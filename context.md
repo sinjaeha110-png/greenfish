@@ -18,6 +18,10 @@
 | `.claude/launch.json` | 로컬 서버 설정 (`python3 -m http.server 8123`). localStorage 저장을 확인할 때 써요 |
 | `context.md` | 이 문서 |
 | `spec.md` | 달빛문구 최초 기획서 (기록용) |
+| `README.md` | GitHub 저장소 소개 (`# greenfish`) |
+
+### 저장소
+- GitHub: https://github.com/sinjaeha110-png/greenfish (`origin`, 브랜치 `main`)
 
 ### 화면 구성
 - **헤더:** 로고, 무기 상점·인벤토리 메뉴(보유 수 배지), 레벨, 보유 골드
